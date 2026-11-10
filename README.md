@@ -27,6 +27,3 @@ A responsive barbershop website built with HTML, CSS and JavaScript.
 ### My Goal
 
 To become a skilled software engineer by consistently learning, building projects, and solving real-world problems.
-
-: ...
--->
