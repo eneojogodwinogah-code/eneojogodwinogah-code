@@ -9,7 +9,7 @@ I'm passionate about building useful web applications, improving my problem-solv
 - Learning React and modern frontend development.
 - Building practical projects to strengthen my programming skills.
 
-### 🛠️ Technologies
+### Technologies
 - HTML
 - CSS
 - JavaScript
